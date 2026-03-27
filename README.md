@@ -48,24 +48,8 @@ This project uses speech signal processing and deep learning to detect Parkinson
    - Dropout regularization  
 
 6. Evaluation  
-   - Accuracy, Precision, Recall, F1-score  
-   - ROC-AUC, MCC, Cohen’s Kappa  
-   - Confusion matrix visualization  
-
----
-
-## 📈 Results
-
-- Validation Accuracy: 88.24%  
-- Test Accuracy: ~87.94%  
-
-Confusion Matrix:
-
-               Predicted
-               Healthy   PD
-Actual Healthy   304     36
-Actual PD         46     294
-
+   - Accuracy, Precision, Recall, F1-score
+     
 ---
 
 ## 🛠️ Tech Stack
