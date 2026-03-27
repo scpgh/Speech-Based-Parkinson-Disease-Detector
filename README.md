@@ -12,10 +12,10 @@ This project uses speech signal processing and deep learning to detect Parkinson
 
 ## 📊 Dataset
 
-- Total samples: 3400 audio files
+- Total samples: 1700 audio files
 - Classes:
-  - Healthy: 1700
-  - Parkinson’s Disease (PD): 1700
+  - Healthy: 850
+  - Parkinson’s Disease (PD): 850
 - Balanced dataset across multiple vowel sounds
 
 ---
