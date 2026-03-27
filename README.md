@@ -96,7 +96,7 @@ parkinsons-detection/
 
 ## ▶️ How to Run
 
-git clone https://github.com/your-username/parkinsons-detection.git
+git clone https://github.com/scpgh/Speech-Based-Parkinson-Disease-Detector
 cd parkinsons-detection
 pip install -r requirements.txt
 python main.py
@@ -124,8 +124,8 @@ python main.py
 
 ## 👨‍💻 Author
 
-Your Name  
-GitHub: https://github.com/your-username  
+Srichaitanya Panda
+GitHub: https://github.com/scpgh 
 
 ---
 
