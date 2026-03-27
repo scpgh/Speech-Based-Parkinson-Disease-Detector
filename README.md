@@ -1,6 +1,6 @@
 # 🧠 Speech-Based Parkinson’s Disease Detection using Deep Learning
 
-An end-to-end machine learning pipeline that detects Parkinson’s Disease from speech signals using audio feature extraction and a neural network.
+An end-to-end Deep learning pipeline that detects Parkinson’s Disease from speech signals using audio feature extraction and a neural network.
 
 ---
 
